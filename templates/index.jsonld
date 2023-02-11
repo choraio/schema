@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "https://schema.chora.io/templates/geonode.jsonld",
+        "name": "geonode"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "https://schema.chora.io/templates/group.jsonld",
+        "name": "group"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "https://schema.chora.io/templates/group_member.jsonld",
+        "name": "group_member"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "https://schema.chora.io/templates/group_member_application.jsonld",
+        "name": "group_member_application"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@id": "https://schema.chora.io/templates/group_policy.jsonld",
+        "name": "group_policy"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@id": "https://schema.chora.io/templates/group_proposal.jsonld",
+        "name": "group_proposal"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@id": "https://schema.chora.io/templates/group_vote.jsonld",
+        "name": "group_vote"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@id": "https://schema.chora.io/templates/voucher.jsonld",
+        "name": "voucher"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@id": "https://schema.chora.io/templates/voucher_issuance.jsonld",
+        "name": "voucher_issuance"
+      }
+    }
+  ]
+}
